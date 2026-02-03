@@ -38,7 +38,7 @@ Inside the notebook you can display:
 ---
 
 ## License
-Choose a license for reuse (e.g., MIT). Add a `LICENSE` file if needed.
+MIT
 
 ---
 
